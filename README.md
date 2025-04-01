@@ -4,7 +4,7 @@
 My name is ChuruiMa.  
 
 - 🔭 I'm currently studying in Wuhan University
-- 👯 I'm the main contributor of Open GeoSpatial Engine(http://www.openge.org.cn)
+- 👯 I'm the one of the main contributors of Open GeoSpatial Engine(http://www.openge.org.cn)
 - 📫 How to reach me: whumcr@whu.edu.cn
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
