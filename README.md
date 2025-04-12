@@ -11,4 +11,5 @@ My name is ChuruiMa.
 <!-- BLOG-POST-LIST:START -->
 - [在PHP文件中执行Shell脚本一直失败](https://blog.csdn.net/Xiaoruiui_Ma/article/details/146227415?spm=1011.2415.3001.10575&sharefrom=mp_manage_link)
 - [php文件move_uploaded_file执行失败——open_basedir的限制](https://blog.csdn.net/Xiaoruiui_Ma/article/details/145423187?spm=1011.2415.3001.10575&sharefrom=mp_manage_link)
+- [Python函数的参数传递](https://blog.csdn.net/Xiaoruiui_Ma/article/details/147167403)
 <!-- BLOG-POST-LIST:END -->
